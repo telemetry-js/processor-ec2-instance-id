@@ -3,7 +3,7 @@
 > **Add `instanceid` tag to metrics.**  
 > A [`telemetry`](https://github.com/telemetry-js/telemetry) plugin.
 
-[![npm status](http://img.shields.io/npm/v/telemetry-js/processor-ec2-instance-id.svg)](https://www.npmjs.org/package/@telemetry-js/processor-ec2-instance-id)
+[![npm status](http://img.shields.io/npm/v/@telemetry-js/processor-ec2-instance-id.svg)](https://www.npmjs.org/package/@telemetry-js/processor-ec2-instance-id)
 [![node](https://img.shields.io/node/v/@telemetry-js/processor-ec2-instance-id.svg)](https://www.npmjs.org/package/@telemetry-js/processor-ec2-instance-id)
 [![Test](https://github.com/telemetry-js/processor-ec2-instance-id/workflows/Test/badge.svg?branch=main)](https://github.com/telemetry-js/processor-ec2-instance-id/actions)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
@@ -53,7 +53,7 @@ npm install @telemetry-js/processor-ec2-instance-id
 
 ## Acknowledgements
 
-This project is kindly sponsored by [Reason Cybersecurity Inc](https://reasonsecurity.com).
+This project is kindly sponsored by [Reason Cybersecurity Ltd](https://reasonsecurity.com).
 
 [![reason logo](https://cdn.reasonsecurity.com/github-assets/reason_signature_logo.png)](https://reasonsecurity.com)
 
